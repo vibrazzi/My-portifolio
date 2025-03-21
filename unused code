@@ -1,0 +1,11 @@
+[33mcommit d9dcbefd24f213dd4565a4629584fcfd8088ab36[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Webert Fernandes <106758545+vibrazzi@users.noreply.github.com>
+Date:   Fri Mar 21 16:52:26 2025 -0300
+
+    deletes unused code
+
+[33mcommit b277f4abad826283fb1c238104bcfd8fe29b8aa1[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Webert Fernandes <106758545+vibrazzi@users.noreply.github.com>
+Date:   Fri Mar 21 16:20:15 2025 -0300
+
+    feat: starts project with vite
